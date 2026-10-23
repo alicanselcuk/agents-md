@@ -6,8 +6,8 @@ Bu repo, Codex ile yürütülen yazılım çalışmalarında kullanılabilecek T
 
 | Dosya | Kapsam |
 | --- | --- |
-| [Global-AGENTS-MD.txt](Global-AGENTS-MD.txt) | Projelerden bağımsız iletişim, kapsam, delegasyon, review, paket güvenliği, Git ve doğrulama kuralları. |
-| [Proje-AGENTS-MD.txt](Proje-AGENTS-MD.txt) | Projeye özel başlangıç kaynakları, domain ve skill yönlendirmesi, mimari sınırlar, review ve görev kapanışı için uyarlanabilir şablon. |
+| [Global-AGENTS-MD.md](Global-AGENTS-MD.md) | Projelerden bağımsız iletişim, kapsam, delegasyon, review, paket güvenliği, Git ve doğrulama kuralları. |
+| [Proje-AGENTS-MD.md](Proje-AGENTS-MD.md) | Projeye özel başlangıç kaynakları, domain ve skill yönlendirmesi, mimari sınırlar, review ve görev kapanışı için uyarlanabilir şablon. |
 
 ## Temel yaklaşım
 
